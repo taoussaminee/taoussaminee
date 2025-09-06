@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine Taous</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Zone 01 talent</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taoussaminee" alt="taoussaminee" /></a> </p>
-
 - 🔭 I’m currently learning : **Advanced frontend and Backend development : Go,Node.js- Databases: MySQL**
 
 - 💬 Ask me about : **Go, HTML/CSS, JavaScript, Docker, TCP/UDP, Linux networking**
